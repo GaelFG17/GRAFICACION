@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt
 # Abre la imagen
 imagen = Image.open('imagen.jpg')
 
-angulo = 180
+angulo = 80
 angulo_rad = math.radians(angulo)
 #formula matricial
 matriz_rot = [

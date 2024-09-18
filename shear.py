@@ -9,7 +9,7 @@ imagen_array = np.array(imagen)
 
 
 sh_x = 0.5  
-sh_y = 0.3  
+sh_y = 0.5  
 
 # Matrices de cizallado
 matriz_cizallado_x = np.array([

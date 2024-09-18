@@ -7,7 +7,7 @@ imagen = Image.open('imagen.jpg')
 
 # Factores de escalado
 s_x = 0.5  
-s_y = 0.5  
+s_y = 0.7  
 
 # Convertir imagen a matriz de píxeles
 pixeles = np.array(imagen)

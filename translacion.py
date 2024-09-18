@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 imagen = Image.open('imagen.jpg')
 
 # Desplazamiento (translación)
-t_x = 30  # Traslación en x
+t_x = 40  # Traslación en x
 t_y = 50  # Traslación en y
 
 # Matriz de translación
